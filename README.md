@@ -1,4 +1,12 @@
 # emkmakerlabworkshop2
+SLIDE DAY 6 HERE:
+https://docs.google.com/presentation/d/1pk8k7AW0I-8XGpv10V7HPT9mGBc4Sih_kfPrNqnZClw/edit?usp=sharing 
+
+Obstacle avoidance sensor:
+http://mechstuff.com/how-to-make-obstacle-avoiding-robot-using-arduino-ultrasonic-sensor/
+
+LINE FOLLOWER TUTORIAL WITH IR SENSOR MODULE:
+https://www.electronicshub.org/arduino-line-follower-robot/ 
 
 SLIDE DAY 5 HERE: 
 
