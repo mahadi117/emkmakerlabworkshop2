@@ -1,15 +1,15 @@
 # emkmakerlabworkshop2
-OUTLINE: 
+<h3> OUTLINE: </h3>
 https://docs.google.com/document/d/1kKWVKdB894A5x3lNfkHDioyTai7-VeLyx9LfxaiVaHg/edit?usp=sharing
 
-<h2>SLIDE DAY 1 here:</h2>
+<h3>SLIDE DAY 1 here:</h3>
 https://docs.google.com/presentation/d/1xNsePmz1ce8D0ohXSPrcY6Js8eLLclCwgUsQvh4hYtk/edit?usp=sharing
 
 
-SLIDE DAY 2 here:
+<h3>SLIDE DAY 2 here:</h3>
 https://docs.google.com/presentation/d/1FF0slmo0PA2IG6MX8W-m7TCwt9cDKNoTaVXcLzSFWhk/edit?usp=sharing
 
-SLIDE DAY3 here: 
+<h3>SLIDE DAY 3 here:</h3>
 https://docs.google.com/presentation/d/1qOPPNME7AmlR57snE54y2bvFOi_1ZrAdx3VLwY3D5PA/edit?usp=sharing
 
 You can find more details here for Line follower Arduino Robot: 
@@ -19,11 +19,11 @@ TINKERCAD L293D MOTOR 3D
 https://www.tinkercad.com/things/3LrIjm93iYh-surprising-curcan/editel?sharecode=p2IEMgoDS0BFwXtap74bVTKziXX4jRQ5VvmCj3ZKX68=
 
 
-SLIDE DAY4 Here: 
+<h3>SLIDE DAY 4 here:</h3>
 https://docs.google.com/presentation/d/1LsvflOJqGLWiHt89vVLi4Vz5L24M5z2Gh4u_L6ohsPU/edit?usp=sharing
 
 
-SLIDE DAY 5 HERE: 
+<h3>SLIDE DAY 5 here:</h3>
 https://docs.google.com/presentation/d/1ftdKRqrY7baO13GDNYFXgGmfIDU3zhMsfAQXmD4RA2U/edit?usp=sharing 
 
 LINK FOR ARDUINO LED BT TUTORIAL:
@@ -33,8 +33,7 @@ LINK FOR BT LED CONTROL APP:
 https://github.com/Mayoogh/Arduino-Bluetooth-Basic 
 
 
-
-SLIDE DAY 6 HERE:
+<h3>SLIDE DAY 6 here:</h3>
 https://docs.google.com/presentation/d/1pk8k7AW0I-8XGpv10V7HPT9mGBc4Sih_kfPrNqnZClw/edit?usp=sharing 
 
 Obstacle avoidance sensor:
